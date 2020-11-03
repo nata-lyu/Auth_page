@@ -1,0 +1,44 @@
+h1 {
+    color: hsl(36, 94%, 14%);
+    font-size: 24pt;
+    margin-bottom: 70px;
+}
+
+h2 {
+    color: #6b4306;
+    font-size: 16pt;
+}
+
+body {
+    background: url(fon.jpg) no-repeat; /* Цвет фона */
+    background-size: 100%;
+    font-family: Arial;
+    text-align: center;
+    font-size: 14pt;
+
+}
+
+body.ident_fon {
+    background-color: bisque;
+}
+
+a {
+    color: #a10332;
+}
+
+input {
+    background: #faf9ed;
+    margin: 1% 5%;
+    color: #996633;
+    font-family: Arial; 
+    font-size: 18pt;
+    border: 3px solid;
+} 
+
+input.small_font {
+    font-size: 14pt;
+}
+
+p.margin_ {
+    margin-top: 70px;
+}
